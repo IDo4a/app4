@@ -19,7 +19,7 @@ phpfpmService:
 persistence:
   accessMode: ReadWriteOnce
   enabled: true
-  size: 40Gi
+  size: 5Gi
   storageClass: standard
 ingress:
   enabled: false
